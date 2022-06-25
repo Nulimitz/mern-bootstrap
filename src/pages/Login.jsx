@@ -8,7 +8,7 @@ function Login() {
           <div class="card">
             <div className="card-body">
               <h1 class="text-center mb-3">Login</h1>
-              <form action="/users/login" method="POST">
+              <form>
                 <div class="mb-3">
                   <label for="email" className="form-label">
                     Email

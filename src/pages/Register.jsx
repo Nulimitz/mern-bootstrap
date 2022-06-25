@@ -8,7 +8,7 @@ function Register() {
           <div className="card">
             <div className="card-body">
               <h1 className="text-center mb-3">Register</h1>
-              <form action="/users/login" method="POST">
+              <form>
                 <div className="mb-3">
                   <label for="name" classNameName="form-label">
                     Name
